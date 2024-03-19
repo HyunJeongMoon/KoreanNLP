@@ -1,0 +1,8 @@
+![슬라이드1](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/7a1ff538-6985-4143-9bc7-f1ae1112fedf)
+![슬라이드2](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/18d3e0a8-b167-48ab-acd1-c1af96396fa4)
+![슬라이드3](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/a7455264-dabf-4bc5-96fc-c1d0267c61bd)
+![슬라이드4](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/b7267e1b-5581-484f-bac0-f6859c87b9fa)
+![슬라이드5](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/394d85a1-003e-4607-96e9-c067663bd833)
+![슬라이드6](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/b9a89feb-9b92-4ed1-b575-337b91242e3b)
+![슬라이드7](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/4dd18a8b-9dc4-4136-b820-46b03393f69d)
+![슬라이드8](https://github.com/HyunJeongMoon/KoreanNLP/assets/151496207/cb45c4ff-8b9e-4c8b-8851-faad4f29c3e3)
